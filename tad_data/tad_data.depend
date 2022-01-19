@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642555366 source:c:\users\vinil\onedrive\documentos\dev\datastructures\tad_data\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1642552765 c:\users\vinil\onedrive\documentos\dev\datastructures\tad_data\data.h
+
+1642554880 source:c:\users\vinil\onedrive\documentos\dev\datastructures\tad_data\data.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
