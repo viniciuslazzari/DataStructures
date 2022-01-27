@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643326800 source:c:\users\vinil\onedrive\documentos\dev\datastructures\tad_lista_linear\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_linear.h"
+
+1643325701 source:c:\users\vinil\onedrive\documentos\dev\datastructures\tad_lista_linear\lista_linear.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_linear.h"
+
+1643326005 c:\users\vinil\onedrive\documentos\dev\datastructures\tad_lista_linear\lista_linear.h
+
